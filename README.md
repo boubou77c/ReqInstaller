@@ -19,12 +19,12 @@ If you have any advice to improve my skills ,ideas to enhance my program or sugg
 My discord : .bou_bou_
 
 
-## Screenshots
+## 📸Screenshots📸
 It looks like that :
 
 Yes, it is too bright, but I think to create a dark theme
 
-with simpler colors. But pink it is a good color, is not it ?
+with simpler colors. But pink it is a good color, is not it ?🌹
 
 ![App Screenshot](exemple.png)
 
