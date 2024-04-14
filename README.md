@@ -26,5 +26,7 @@ Yes, it is too bright, but I think to create a dark theme
 
 with simpler colors. But pink it is a good color, is not it ?🌹
 
+And yes, i made the picture... Did you guess it ?
+
 ![App Screenshot](exemple.png)
 
